@@ -1,0 +1,16 @@
+{
+    "data":[
+        {
+            "key":"ramen_a",
+            "name":"ラーメンA"
+        },
+        {
+            "key":"ramen_b",
+            "name":"ラーメンB"
+        },
+        {
+            "key":"ramen_c",
+            "name":"ラーメンC"
+        }
+    ]
+}
